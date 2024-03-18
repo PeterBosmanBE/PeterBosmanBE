@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [peterbosman.be](peterbosman.be)
+- 👨‍💻 All of my projects are available at [https://peterbosman.be](https://peterbosman.be)
 
 - 📫 How to reach me **info@peterbosman.be**
 
-- 📄 Know about my experiences [peterbosman.be/assets/Cv.pdf](peterbosman.be/assets/Cv.pdf)
+- 📄 Know about my experiences [https://peterbosman.be/assets/Cv.pdf](https://peterbosman.be/assets/Cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
