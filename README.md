@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">I'm a passionate full-stack web developer from Belgium</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=peterbosmanbe&label=Profile%20views&color=0e75b6&style=flat" alt="peterbosmanbe" /> </p>
-
 - 🌱 I’m currently learning **Spring Boot, Java and CSS**
 
 - 👨‍💻 All of my projects are available at [https://peterbosman.be](https://peterbosman.be)
