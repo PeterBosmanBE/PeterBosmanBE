@@ -11,7 +11,7 @@
 
 - 📫 How to reach me info@peterbosman.be
 
-- 📄 Know about my experiences https://peterbosman.be/assets/Cv.pdf
+- 📄 Know about my experiences https://peterbosman.be/assets/CV.pdf
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
